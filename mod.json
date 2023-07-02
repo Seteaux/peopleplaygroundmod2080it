@@ -1,0 +1,18 @@
+{
+  "Name": "CustomPlayground",
+  "Author": "Leandro",
+  "Description": "This mod adds cool stuff",
+  "ModVersion": "1.0",
+  "GameVersion": "1.11",
+  "ThumbnailPath": "thumb.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Fun"
+  ],
+  "Scripts": [
+    "script.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": null
+}
